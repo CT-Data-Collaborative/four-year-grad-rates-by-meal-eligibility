@@ -1,7 +1,10 @@
 Four-Year-Grad-Rates-by-Meal-Eligibility
 
 [![Build Status](https://travis-ci.org/CT-Data-Collaborative/four-year-grad-rates-by-meal-eligibility.svg?branch=master)](https://travis-ci.org/CT-Data-Collaborative/four-year-grad-rates-by-meal-eligibility)
-A short description of the project.
+
+Four-Year Graduation Rate reports 'graduation' counts and rates and 'still enrolled' counts and rates for both graduates and non-graduates, per subgroup.
+
+Data Source: <http://edsight.ct.gov/>
 
 ## License MIT
 
